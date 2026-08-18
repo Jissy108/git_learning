@@ -4,3 +4,4 @@ Next update cause gotta know what staging be!
 I am learning how to unstage changes.
 Connected to github but doing change locally
 This Change was made remotely gotta pull it
+Change for fetch now
